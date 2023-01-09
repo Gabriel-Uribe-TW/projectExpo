@@ -5,7 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Primera aplicación</Text>
+      <Text>Primera aplicación en Expo</Text>
       <StatusBar style="auto" />
     </View>
   );
